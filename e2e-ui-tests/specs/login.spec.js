@@ -26,5 +26,4 @@ test.describe('Login tests', () => {
         await expect(page).toHaveURL('http://omega-stage.qa.nolimit.school/sign-up');
     });
 
-
 });
